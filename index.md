@@ -11,3 +11,5 @@ Introduce how to install and config pre-built OpenCV on Windows with CMake and V
 之后只需要通过OpenCV读入即可。
 
 ## [Conda for multi-user](Server/conda.md)
+
+## [Server Security notes](Server/security.md)
